@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/projectbeta-website/static/css/main.027afc88.css",
-    "main.js": "/projectbeta-website/static/js/main.2b540fc2.js",
+    "main.css": "/projectbeta-website/static/css/main.bb5768c7.css",
+    "main.js": "/projectbeta-website/static/js/main.b1d1e448.js",
+    "static/media/PBbootup.gif": "/projectbeta-website/static/media/PBbootup.451e471e6656984b8bfa.gif",
     "static/media/schedule.png": "/projectbeta-website/static/media/schedule.a9695826dc5f5c6b91e3.png",
     "static/media/kanha_singh.jpeg": "/projectbeta-website/static/media/kanha_singh.a74ade58df97f70aa52f.jpeg",
     "static/media/adit_magotra.jpeg": "/projectbeta-website/static/media/adit_magotra.a8559b24ddf89533664a.jpeg",
@@ -16,6 +17,7 @@
     "static/media/simar_tandon.jpeg": "/projectbeta-website/static/media/simar_tandon.4dce5072677bf6bbd73b.jpeg",
     "static/media/projectremix.png": "/projectbeta-website/static/media/projectremix.79c5539ee54068b35bb7.png",
     "static/media/gauri_tandon.jpeg": "/projectbeta-website/static/media/gauri_tandon.711a79fb550dd02b11d4.jpeg",
+    "static/media/aryav_saigal.jpeg": "/projectbeta-website/static/media/aryav_saigal.483abb7434fb0d019ac6.jpeg",
     "static/media/kabir_verdi_jain.jpeg": "/projectbeta-website/static/media/kabir_verdi_jain.a7c4b28637708ed3571a.jpeg",
     "static/media/shreeya_mishra.jpeg": "/projectbeta-website/static/media/shreeya_mishra.c777beafb411546cb98d.jpeg",
     "static/media/aadi_jain.jpeg": "/projectbeta-website/static/media/aadi_jain.a9b959d24c7e61ebd5ba.jpeg",
@@ -40,11 +42,11 @@
     "static/media/arnav_whig.jpeg": "/projectbeta-website/static/media/arnav_whig.699a5da5af57d8701252.jpeg",
     "static/media/dualwield.png": "/projectbeta-website/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/projectbeta-website/index.html",
-    "main.027afc88.css.map": "/projectbeta-website/static/css/main.027afc88.css.map",
-    "main.2b540fc2.js.map": "/projectbeta-website/static/js/main.2b540fc2.js.map"
+    "main.bb5768c7.css.map": "/projectbeta-website/static/css/main.bb5768c7.css.map",
+    "main.b1d1e448.js.map": "/projectbeta-website/static/js/main.b1d1e448.js.map"
   },
   "entrypoints": [
-    "static/css/main.027afc88.css",
-    "static/js/main.2b540fc2.js"
+    "static/css/main.bb5768c7.css",
+    "static/js/main.b1d1e448.js"
   ]
 }
