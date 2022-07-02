@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectbeta-website/static/css/main.027afc88.css",
-    "main.js": "/projectbeta-website/static/js/main.59e7173c.js",
+    "main.js": "/projectbeta-website/static/js/main.2b540fc2.js",
     "static/media/schedule.png": "/projectbeta-website/static/media/schedule.a9695826dc5f5c6b91e3.png",
     "static/media/kanha_singh.jpeg": "/projectbeta-website/static/media/kanha_singh.a74ade58df97f70aa52f.jpeg",
     "static/media/adit_magotra.jpeg": "/projectbeta-website/static/media/adit_magotra.a8559b24ddf89533664a.jpeg",
@@ -10,6 +10,7 @@
     "static/media/paavan_gupta.jpeg": "/projectbeta-website/static/media/paavan_gupta.35b6279a64c872f58805.jpeg",
     "static/media/sia_jha_nath.jpeg": "/projectbeta-website/static/media/sia_jha_nath.5ae8d5ebcc436701f820.jpeg",
     "static/media/vidhushi_jain.jpeg": "/projectbeta-website/static/media/vidhushi_jain.94c6387a819ec42e81ab.jpeg",
+    "static/media/nitish_sehgal.jpeg": "/projectbeta-website/static/media/nitish_sehgal.1c36b450431bfb464ea4.jpeg",
     "static/media/aniket_kumar.jpeg": "/projectbeta-website/static/media/aniket_kumar.cd4fa66fb9322d50affa.jpeg",
     "static/media/UbuntuMono-Regular.ttf": "/projectbeta-website/static/media/UbuntuMono-Regular.9fa7d55c51063608f793.ttf",
     "static/media/simar_tandon.jpeg": "/projectbeta-website/static/media/simar_tandon.4dce5072677bf6bbd73b.jpeg",
@@ -40,10 +41,10 @@
     "static/media/dualwield.png": "/projectbeta-website/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/projectbeta-website/index.html",
     "main.027afc88.css.map": "/projectbeta-website/static/css/main.027afc88.css.map",
-    "main.59e7173c.js.map": "/projectbeta-website/static/js/main.59e7173c.js.map"
+    "main.2b540fc2.js.map": "/projectbeta-website/static/js/main.2b540fc2.js.map"
   },
   "entrypoints": [
     "static/css/main.027afc88.css",
-    "static/js/main.59e7173c.js"
+    "static/js/main.2b540fc2.js"
   ]
 }
