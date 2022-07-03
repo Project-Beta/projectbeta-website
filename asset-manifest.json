@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/projectbeta-website/static/css/main.cdaafce6.css",
-    "main.js": "/projectbeta-website/static/js/main.efe570c5.js",
-    "static/media/PBbootup.gif": "/projectbeta-website/static/media/PBbootup.98abccb608629f5ab964.gif",
-    "static/media/schedule.png": "/projectbeta-website/static/media/schedule.a9695826dc5f5c6b91e3.png",
+    "main.css": "/projectbeta-website/static/css/main.1382783a.css",
+    "main.js": "/projectbeta-website/static/js/main.71ce5c6e.js",
+    "static/media/PBbootup.gif": "/projectbeta-website/static/media/PBbootup.5f5fc81c8414fb353696.gif",
     "static/media/kanha_singh.jpeg": "/projectbeta-website/static/media/kanha_singh.a74ade58df97f70aa52f.jpeg",
+    "static/media/schedule.png": "/projectbeta-website/static/media/schedule.766d5b37f8c6b25c5c0c.png",
     "static/media/adit_magotra.jpeg": "/projectbeta-website/static/media/adit_magotra.a8559b24ddf89533664a.jpeg",
     "static/media/chirag_sehgal.jpeg": "/projectbeta-website/static/media/chirag_sehgal.621308d2f6c1968aa955.jpeg",
     "static/media/Ubuntu-Regular.ttf": "/projectbeta-website/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
@@ -37,16 +37,17 @@
     "static/media/logo-white.png": "/projectbeta-website/static/media/logo-white.044b6fd6a8db2a286a3d.png",
     "static/media/homeinfocard-info.png": "/projectbeta-website/static/media/homeinfocard-info.d885d1c1afca9734f9d6.png",
     "static/media/Code Bold.otf": "/projectbeta-website/static/media/Code Bold.2ade8685d0e7475fd8a9.otf",
+    "static/media/shreyas_vertia.jpeg": "/projectbeta-website/static/media/shreyas_vertia.c28bf222477c4f5b5126.jpeg",
     "static/media/sidequest.png": "/projectbeta-website/static/media/sidequest.90be53bad5c278185d11.png",
     "static/media/sixtyfourwit.png": "/projectbeta-website/static/media/sixtyfourwit.d9d5e5473aa28269489d.png",
     "static/media/arnav_whig.jpeg": "/projectbeta-website/static/media/arnav_whig.699a5da5af57d8701252.jpeg",
     "static/media/dualwield.png": "/projectbeta-website/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/projectbeta-website/index.html",
-    "main.cdaafce6.css.map": "/projectbeta-website/static/css/main.cdaafce6.css.map",
-    "main.efe570c5.js.map": "/projectbeta-website/static/js/main.efe570c5.js.map"
+    "main.1382783a.css.map": "/projectbeta-website/static/css/main.1382783a.css.map",
+    "main.71ce5c6e.js.map": "/projectbeta-website/static/js/main.71ce5c6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdaafce6.css",
-    "static/js/main.efe570c5.js"
+    "static/css/main.1382783a.css",
+    "static/js/main.71ce5c6e.js"
   ]
 }
