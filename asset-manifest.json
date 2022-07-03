@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectbeta-website/static/css/main.a9bd7f5c.css",
-    "main.js": "/projectbeta-website/static/js/main.ceda5984.js",
+    "main.js": "/projectbeta-website/static/js/main.22174bf4.js",
     "static/media/PBbootup.mp4": "/projectbeta-website/static/media/PBbootup.c2934ae2a9ae2a768b89.mp4",
     "static/media/kanha_singh.jpeg": "/projectbeta-website/static/media/kanha_singh.a74ade58df97f70aa52f.jpeg",
     "static/media/schedule.png": "/projectbeta-website/static/media/schedule.766d5b37f8c6b25c5c0c.png",
@@ -44,10 +44,10 @@
     "static/media/dualwield.png": "/projectbeta-website/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/projectbeta-website/index.html",
     "main.a9bd7f5c.css.map": "/projectbeta-website/static/css/main.a9bd7f5c.css.map",
-    "main.ceda5984.js.map": "/projectbeta-website/static/js/main.ceda5984.js.map"
+    "main.22174bf4.js.map": "/projectbeta-website/static/js/main.22174bf4.js.map"
   },
   "entrypoints": [
     "static/css/main.a9bd7f5c.css",
-    "static/js/main.ceda5984.js"
+    "static/js/main.22174bf4.js"
   ]
 }
