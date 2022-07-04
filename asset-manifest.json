@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.68bb4bea.css",
-    "main.js": "/static/js/main.c7104d92.js",
+    "main.css": "/static/css/main.c5eafd71.css",
+    "main.js": "/static/js/main.dce5bf2f.js",
     "static/media/PBbootup.mp4": "/static/media/PBbootup.c2934ae2a9ae2a768b89.mp4",
     "static/media/kanha_singh.jpeg": "/static/media/kanha_singh.a74ade58df97f70aa52f.jpeg",
     "static/media/schedule.png": "/static/media/schedule.766d5b37f8c6b25c5c0c.png",
@@ -34,6 +34,7 @@
     "static/media/homeinfocard-call.png": "/static/media/homeinfocard-call.183b83f82f89f530601d.png",
     "static/media/functionoverload.png": "/static/media/functionoverload.a6aa291e915bec849a7f.png",
     "static/media/homeinfocard-star.png": "/static/media/homeinfocard-star.130cf70aca7f894a5423.png",
+    "static/media/betatest.png": "/static/media/betatest.12391369a27cc8ffcac9.png",
     "static/media/puranjay_chawla.jpeg": "/static/media/puranjay_chawla.157ea911a6638f491bf7.jpeg",
     "static/media/logo-white.png": "/static/media/logo-white.044b6fd6a8db2a286a3d.png",
     "static/media/homeinfocard-info.png": "/static/media/homeinfocard-info.d885d1c1afca9734f9d6.png",
@@ -43,11 +44,11 @@
     "static/media/sixtyfourwit.png": "/static/media/sixtyfourwit.d9d5e5473aa28269489d.png",
     "static/media/dualwield.png": "/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/index.html",
-    "main.68bb4bea.css.map": "/static/css/main.68bb4bea.css.map",
-    "main.c7104d92.js.map": "/static/js/main.c7104d92.js.map"
+    "main.c5eafd71.css.map": "/static/css/main.c5eafd71.css.map",
+    "main.dce5bf2f.js.map": "/static/js/main.dce5bf2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.68bb4bea.css",
-    "static/js/main.c7104d92.js"
+    "static/css/main.c5eafd71.css",
+    "static/js/main.dce5bf2f.js"
   ]
 }
