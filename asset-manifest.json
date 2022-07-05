@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51c8af1d.css",
-    "main.js": "/static/js/main.4d6bb7bf.js",
+    "main.css": "/static/css/main.6ae7fa6a.css",
+    "main.js": "/static/js/main.b1a47d4a.js",
     "static/media/PBbootup.mp4": "/static/media/PBbootup.c2934ae2a9ae2a768b89.mp4",
     "static/media/kanha_singh.jpeg": "/static/media/kanha_singh.a74ade58df97f70aa52f.jpeg",
     "static/media/schedule.png": "/static/media/schedule.766d5b37f8c6b25c5c0c.png",
@@ -15,13 +15,12 @@
     "static/media/nitish_sehgal.jpeg": "/static/media/nitish_sehgal.1c36b450431bfb464ea4.jpeg",
     "static/media/aniket_kumar.jpeg": "/static/media/aniket_kumar.cd4fa66fb9322d50affa.jpeg",
     "static/media/UbuntuMono-Regular.ttf": "/static/media/UbuntuMono-Regular.9fa7d55c51063608f793.ttf",
-    "static/media/simar_tandon.jpeg": "/static/media/simar_tandon.4dce5072677bf6bbd73b.jpeg",
+    "static/media/aadi_jain.jpeg": "/static/media/aadi_jain.8d5483361f55bf3dff42.jpeg",
     "static/media/projectremix.png": "/static/media/projectremix.79c5539ee54068b35bb7.png",
     "static/media/gauri_tandon.jpeg": "/static/media/gauri_tandon.711a79fb550dd02b11d4.jpeg",
     "static/media/aryav_saigal.jpeg": "/static/media/aryav_saigal.483abb7434fb0d019ac6.jpeg",
     "static/media/kabir_verdi_jain.jpeg": "/static/media/kabir_verdi_jain.a7c4b28637708ed3571a.jpeg",
     "static/media/shreeya_mishra.jpeg": "/static/media/shreeya_mishra.c777beafb411546cb98d.jpeg",
-    "static/media/aadi_jain.jpeg": "/static/media/aadi_jain.a9b959d24c7e61ebd5ba.jpeg",
     "static/media/rishi_mathur.jpeg": "/static/media/rishi_mathur.886f2a05709cd571c16c.jpeg",
     "static/media/taran_singh.jpeg": "/static/media/taran_singh.26a2a5d6c3aa871328b1.jpeg",
     "static/media/navvye_anand.jpeg": "/static/media/navvye_anand.9f96a7f2e8eb89cbe66c.jpeg",
@@ -31,6 +30,7 @@
     "static/media/gayatri.jpeg": "/static/media/gayatri.cc424d6c62a824d2246f.jpeg",
     "static/media/authority450.png": "/static/media/authority450.af9a2aea8e9155b65847.png",
     "static/media/itsdebatable.png": "/static/media/itsdebatable.6017bc643dbe79c2bcb1.png",
+    "static/media/simar_tandon.jpeg": "/static/media/simar_tandon.c075ed991d20aebcc229.jpeg",
     "static/media/homeinfocard-call.png": "/static/media/homeinfocard-call.183b83f82f89f530601d.png",
     "static/media/functionoverload.png": "/static/media/functionoverload.a6aa291e915bec849a7f.png",
     "static/media/homeinfocard-star.png": "/static/media/homeinfocard-star.130cf70aca7f894a5423.png",
@@ -44,11 +44,11 @@
     "static/media/sixtyfourwit.png": "/static/media/sixtyfourwit.d9d5e5473aa28269489d.png",
     "static/media/dualwield.png": "/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/index.html",
-    "main.51c8af1d.css.map": "/static/css/main.51c8af1d.css.map",
-    "main.4d6bb7bf.js.map": "/static/js/main.4d6bb7bf.js.map"
+    "main.6ae7fa6a.css.map": "/static/css/main.6ae7fa6a.css.map",
+    "main.b1a47d4a.js.map": "/static/js/main.b1a47d4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.51c8af1d.css",
-    "static/js/main.4d6bb7bf.js"
+    "static/css/main.6ae7fa6a.css",
+    "static/js/main.b1a47d4a.js"
   ]
 }
