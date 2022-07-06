@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbc67095.css",
-    "main.js": "/static/js/main.0a30c22d.js",
+    "main.css": "/static/css/main.f1881f01.css",
+    "main.js": "/static/js/main.063b5bf5.js",
     "static/media/PBbootup.mp4": "/static/media/PBbootup.c2934ae2a9ae2a768b89.mp4",
     "static/media/kanha_singh.jpeg": "/static/media/kanha_singh.a74ade58df97f70aa52f.jpeg",
     "static/media/schedule.png": "/static/media/schedule.766d5b37f8c6b25c5c0c.png",
     "static/media/adit_magotra.jpeg": "/static/media/adit_magotra.a8559b24ddf89533664a.jpeg",
+    "static/media/inika_harikrishnan.jpeg": "/static/media/inika_harikrishnan.41ce9361b36469ba0c2a.jpeg",
     "static/media/chirag_sehgal.jpeg": "/static/media/chirag_sehgal.621308d2f6c1968aa955.jpeg",
     "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
     "static/media/arnav_whig.jpeg": "/static/media/arnav_whig.f58d2ce3117f85c6bd0b.jpeg",
@@ -44,11 +45,11 @@
     "static/media/sixtyfourwit.png": "/static/media/sixtyfourwit.d9d5e5473aa28269489d.png",
     "static/media/dualwield.png": "/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/index.html",
-    "main.cbc67095.css.map": "/static/css/main.cbc67095.css.map",
-    "main.0a30c22d.js.map": "/static/js/main.0a30c22d.js.map"
+    "main.f1881f01.css.map": "/static/css/main.f1881f01.css.map",
+    "main.063b5bf5.js.map": "/static/js/main.063b5bf5.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbc67095.css",
-    "static/js/main.0a30c22d.js"
+    "static/css/main.f1881f01.css",
+    "static/js/main.063b5bf5.js"
   ]
 }
