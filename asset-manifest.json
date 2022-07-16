@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4c238ad.css",
-    "main.js": "/static/js/main.aa4217e6.js",
+    "main.css": "/static/css/main.248320de.css",
+    "main.js": "/static/js/main.16f7294d.js",
     "static/media/PBbootup.mp4": "/static/media/PBbootup.c2934ae2a9ae2a768b89.mp4",
     "static/media/inika_harikrishnan.jpeg": "/static/media/inika_harikrishnan.41ce9361b36469ba0c2a.jpeg",
     "static/media/dhimanth_nath.jpeg": "/static/media/dhimanth_nath.8d50ac6878da647ce029.jpeg",
     "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
     "static/media/adit_magotra.jpeg": "/static/media/adit_magotra.3677661ddf3c61c61ab4.jpeg",
+    "static/media/infinity_symbol.png": "/static/media/infinity_symbol.5e22a50717237e45f2cf.png",
     "static/media/arnav_whig.jpeg": "/static/media/arnav_whig.f58d2ce3117f85c6bd0b.jpeg",
     "static/media/vidhushi_jain.jpeg": "/static/media/vidhushi_jain.94c6387a819ec42e81ab.jpeg",
     "static/media/nitish_sehgal.jpeg": "/static/media/nitish_sehgal.1c36b450431bfb464ea4.jpeg",
@@ -47,11 +48,11 @@
     "static/media/sixtyfourwit.png": "/static/media/sixtyfourwit.d9d5e5473aa28269489d.png",
     "static/media/dualwield.png": "/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/index.html",
-    "main.a4c238ad.css.map": "/static/css/main.a4c238ad.css.map",
-    "main.aa4217e6.js.map": "/static/js/main.aa4217e6.js.map"
+    "main.248320de.css.map": "/static/css/main.248320de.css.map",
+    "main.16f7294d.js.map": "/static/js/main.16f7294d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4c238ad.css",
-    "static/js/main.aa4217e6.js"
+    "static/css/main.248320de.css",
+    "static/js/main.16f7294d.js"
   ]
 }
