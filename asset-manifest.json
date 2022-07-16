@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.214d1093.css",
-    "main.js": "/static/js/main.0dca9ca8.js",
+    "main.css": "/static/css/main.69382c6f.css",
+    "main.js": "/static/js/main.4cf5413a.js",
     "static/media/PBbootup.mp4": "/static/media/PBbootup.c2934ae2a9ae2a768b89.mp4",
     "static/media/inika_harikrishnan.jpeg": "/static/media/inika_harikrishnan.41ce9361b36469ba0c2a.jpeg",
     "static/media/dhimanth_nath.jpeg": "/static/media/dhimanth_nath.8d50ac6878da647ce029.jpeg",
@@ -23,6 +23,7 @@
     "static/media/gauri_tandon.jpeg": "/static/media/gauri_tandon.1d6ee7e372cf356a4b93.jpeg",
     "static/media/taran_singh.jpeg": "/static/media/taran_singh.26a2a5d6c3aa871328b1.jpeg",
     "static/media/designathon.png": "/static/media/designathon.7a5025add14cc3e54394.png",
+    "static/media/simar_tandon.jpeg": "/static/media/simar_tandon.60ec6354282194a47c3d.jpeg",
     "static/media/shreeya_mishra.jpeg": "/static/media/shreeya_mishra.44a47edfd447ee60fbbf.jpeg",
     "static/media/navvye_anand.jpeg": "/static/media/navvye_anand.01ff54b15f5828392416.jpeg",
     "static/media/kabir_verdi_jain.jpeg": "/static/media/kabir_verdi_jain.144c49d06ec4cc7b25b3.jpeg",
@@ -33,7 +34,6 @@
     "static/media/authority450.png": "/static/media/authority450.af9a2aea8e9155b65847.png",
     "static/media/puranjay_chawla.jpeg": "/static/media/puranjay_chawla.76b60516a26a18187a94.jpeg",
     "static/media/itsdebatable.png": "/static/media/itsdebatable.6017bc643dbe79c2bcb1.png",
-    "static/media/simar_tandon.jpeg": "/static/media/simar_tandon.c075ed991d20aebcc229.jpeg",
     "static/media/homeinfocard-call.png": "/static/media/homeinfocard-call.183b83f82f89f530601d.png",
     "static/media/functionoverload.png": "/static/media/functionoverload.a6aa291e915bec849a7f.png",
     "static/media/homeinfocard-star.png": "/static/media/homeinfocard-star.130cf70aca7f894a5423.png",
@@ -47,11 +47,11 @@
     "static/media/sixtyfourwit.png": "/static/media/sixtyfourwit.d9d5e5473aa28269489d.png",
     "static/media/dualwield.png": "/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/index.html",
-    "main.214d1093.css.map": "/static/css/main.214d1093.css.map",
-    "main.0dca9ca8.js.map": "/static/js/main.0dca9ca8.js.map"
+    "main.69382c6f.css.map": "/static/css/main.69382c6f.css.map",
+    "main.4cf5413a.js.map": "/static/js/main.4cf5413a.js.map"
   },
   "entrypoints": [
-    "static/css/main.214d1093.css",
-    "static/js/main.0dca9ca8.js"
+    "static/css/main.69382c6f.css",
+    "static/js/main.4cf5413a.js"
   ]
 }
