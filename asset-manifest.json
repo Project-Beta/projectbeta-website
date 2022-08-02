@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.410e094e.css",
-    "main.js": "/static/js/main.74a7d87f.js",
+    "main.css": "/static/css/main.17f1a26c.css",
+    "main.js": "/static/js/main.988eed4b.js",
     "static/media/invite.pdf": "/static/media/invite.1540dcdcea0f9265c479.pdf",
     "static/media/PBbootup.mp4": "/static/media/PBbootup.c2934ae2a9ae2a768b89.mp4",
     "static/media/inika_harikrishnan.jpeg": "/static/media/inika_harikrishnan.41ce9361b36469ba0c2a.jpeg",
@@ -34,6 +34,8 @@
     "static/media/Code Pro Light.otf": "/static/media/Code Pro Light.80a66cbd7b0657d3d181.otf",
     "static/media/gayatri.jpeg": "/static/media/gayatri.cc424d6c62a824d2246f.jpeg",
     "static/media/rishi_mathur.jpeg": "/static/media/rishi_mathur.f5e49ea82bbc1331e0bc.jpeg",
+    "static/media/geeksforgeeks.png": "/static/media/geeksforgeeks.501f6322a002700e2e00.png",
+    "static/media/xyz.png": "/static/media/xyz.426038c15ff888f91794.png",
     "static/media/authority450.png": "/static/media/authority450.af9a2aea8e9155b65847.png",
     "static/media/puranjay_chawla.jpeg": "/static/media/puranjay_chawla.76b60516a26a18187a94.jpeg",
     "static/media/itsdebatable.png": "/static/media/itsdebatable.6017bc643dbe79c2bcb1.png",
@@ -50,11 +52,11 @@
     "static/media/sixtyfourwit.png": "/static/media/sixtyfourwit.d9d5e5473aa28269489d.png",
     "static/media/dualwield.png": "/static/media/dualwield.1cd0daead841720af16e.png",
     "index.html": "/index.html",
-    "main.410e094e.css.map": "/static/css/main.410e094e.css.map",
-    "main.74a7d87f.js.map": "/static/js/main.74a7d87f.js.map"
+    "main.17f1a26c.css.map": "/static/css/main.17f1a26c.css.map",
+    "main.988eed4b.js.map": "/static/js/main.988eed4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.410e094e.css",
-    "static/js/main.74a7d87f.js"
+    "static/css/main.17f1a26c.css",
+    "static/js/main.988eed4b.js"
   ]
 }
